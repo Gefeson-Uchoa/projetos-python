@@ -1,0 +1,17 @@
+'''desenvolvi um projeto simples, porém muito poderoso.
+trata-se de um manipulador de arquivos, podemos manipular
+arquivos normal, porém qunado se trata de um arquivo muito
+pesado ou muitos arquivos, poderia passar minutos carregando
+o(s) arquivo(s), outra ferramenta poderosa é que podemos 
+escolher arquivos específicos, imagine que você tem uma pasta
+com 1000 arquivos ou mais e deseja selecionar apenas documentos
+em pdf, demorado né, pois bem basta que você digite o caminho
+do diretório e depois o termo, ou o nome completo do arquivo
+caso queira apenas um, e logo será selecionado e movido, copiado
+ou excluido, confrome o escolhido.'''
+
+nstruções.
+1 escolha o tipo de movimento a ser executado
+2 escolha se sera todos os arquivos ou epenas especificos
+3 se escolher especificos, diga o termo ou o nome do arquivo
+4 conclua ou faça outa movimentaçao
