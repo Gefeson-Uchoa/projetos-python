@@ -1,0 +1,28 @@
+[961:988:1003/092619.934202:ERROR:bus.cc(399)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: Arquivo ou diretório inexistente
+[961:988:1003/092619.937970:ERROR:bus.cc(399)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: Arquivo ou diretório inexistente
+[997:997:1003/092620.153179:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[961:961:1003/092620.195057:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[961:1048:1003/092620.243592:ERROR:bus.cc(399)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: Arquivo ou diretório inexistente
+[961:1048:1003/092620.243688:ERROR:bus.cc(399)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: Arquivo ou diretório inexistente
+[961:1048:1003/092620.243787:ERROR:bus.cc(399)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: Arquivo ou diretório inexistente
+[961:1048:1003/092620.243817:WARNING:property.cc(144)] DaemonVersion: GetAndBlock: failed.
+[961:1048:1003/092620.243876:ERROR:bus.cc(399)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: Arquivo ou diretório inexistente
+[961:1048:1003/092620.243943:ERROR:bus.cc(399)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: Arquivo ou diretório inexistente
+[1047:1047:1003/092620.508479:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[1070:1070:1003/092620.551773:WARNING:sandbox_linux.cc(380)] InitializeSandbox() called with multiple threads in process gpu-process.
+[1032:1050:1003/092620.598546:ERROR:command_buffer_proxy_impl.cc(128)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[961:961:1003/092621.203180:INFO:CONSOLE(0)] "The service worker navigation preload request was cancelled before 'preloadResponse' settled. If you intend to use 'preloadResponse', use waitUntil() or respondWith() to wait for the promise to settle.", source:  (0)
+[961:961:1003/092622.472140:INFO:CONSOLE(647)] "%c%s color: red; background: yellow; font-size: 24px; AVISO", source: https://www.gstatic.com/_/mss/boq-finance/_/js/k=boq-finance.GoogleFinanceUi.pt_BR.qTLEiUQFkzw.es5.O/am=AIQABCUAAAAAb2ABAAAAAAAAACAFAAAAAAAAANAkAAE/d=1/excm=_b,_r,_tp,landingpageview/ed=1/dg=0/wt=2/rs=AC0raVILb5pAY3pTpymzuHq14MWH9b5Dxg/m=_b,_tp,_r (647)
+[961:961:1003/092622.472505:INFO:CONSOLE(647)] "%c%s font-size: 18px; É possível que o uso deste console permita que invasores falsifiquem sua identidade para roubar informações por meio de um ataque chamado Self-XSS.
+Não insira nem cole códigos que você não conhece.", source: https://www.gstatic.com/_/mss/boq-finance/_/js/k=boq-finance.GoogleFinanceUi.pt_BR.qTLEiUQFkzw.es5.O/am=AIQABCUAAAAAb2ABAAAAAAAAACAFAAAAAAAAANAkAAE/d=1/excm=_b,_r,_tp,landingpageview/ed=1/dg=0/wt=2/rs=AC0raVILb5pAY3pTpymzuHq14MWH9b5Dxg/m=_b,_tp,_r (647)
+[961:961:1003/092625.192478:INFO:CONSOLE(220)] "Error: <rect> attribute width: A negative value is not valid. ("-1")", source: https://www.google.com/finance/ (220)
+[961:961:1003/092625.193205:INFO:CONSOLE(220)] "Error: <rect> attribute width: A negative value is not valid. ("-1")", source: https://www.google.com/finance/ (220)
+[961:961:1003/092625.193997:INFO:CONSOLE(220)] "Error: <rect> attribute width: A negative value is not valid. ("-1")", source: https://www.google.com/finance/ (220)
+[961:961:1003/092625.198898:INFO:CONSOLE(220)] "Error: <rect> attribute width: A negative value is not valid. ("-1")", source: https://www.google.com/finance/ (220)
+[961:961:1003/092625.199036:INFO:CONSOLE(220)] "Error: <rect> attribute width: A negative value is not valid. ("-1")", source: https://www.google.com/finance/ (220)
+[961:961:1003/092625.209235:INFO:CONSOLE(220)] "Error: <rect> attribute width: A negative value is not valid. ("-1")", source: https://www.google.com/finance/ (220)
+[961:961:1003/092625.209352:INFO:CONSOLE(220)] "Error: <rect> attribute width: A negative value is not valid. ("-1")", source: https://www.google.com/finance/ (220)
+[961:961:1003/092625.209439:INFO:CONSOLE(220)] "Error: <rect> attribute width: A negative value is not valid. ("-1")", source: https://www.google.com/finance/ (220)
+[961:961:1003/092625.212548:INFO:CONSOLE(220)] "Error: <rect> attribute width: A negative value is not valid. ("-1")", source: https://www.google.com/finance/ (220)
+[961:961:1003/092625.212688:INFO:CONSOLE(220)] "Error: <rect> attribute width: A negative value is not valid. ("-1")", source: https://www.google.com/finance/ (220)
+[961:961:1003/092627.959728:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
